@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on Building full-stack web projects .<br>🤝 I’m looking to collaborate on Open-source projects, web applications, and real-world problem-solving products.<br>🧠 I’m looking for help with Backend architecture, API design, and improving system-level understanding.<br>📚 I’m currently learning AWS, DevOps basics, and DSA using JavaScript.<br>✨ Fun fact: I love turning ideas into interactive web experiences 🚀<br>
+💻 I’m currently working on Building full-stack web projects .<br>🤝 I’m looking to collaborate on Open-source projects, web applications, and real-world problem-solving products.<br>🧠 I’m looking for help with Backend architecture, API design, and improving system-level understanding.<br>📚 I’m currently learning AWS, DevOps basics, and DSA using JavaScript.<br>✨ Fun fact: I love turning ideas into interactive web experiences <br>
 
 
 ## 🌐 Socials:
